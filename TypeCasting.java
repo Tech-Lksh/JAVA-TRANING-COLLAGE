@@ -3,7 +3,7 @@ public class TypeCasting {
     public static void main(String[] args) {
         // Type casting 
 
-        byte a = 10;--     
+        byte a = 10;    
         short b = a;
         int c = a;
         double d = a;
@@ -30,5 +30,10 @@ public class TypeCasting {
         byte o = (byte)n;
         System.out.println("double to byte :- " +" o:- "+o);
 
+
+        System.out.println("Lokesh Pardhi");
+
     }
 }
+
+
